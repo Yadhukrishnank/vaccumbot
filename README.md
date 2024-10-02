@@ -41,3 +41,7 @@ Autonomous Vacuum-bot with voice command recognition for path planning
      ```bash
      roslaunch bot gazebo.launch
      rosrun bot voice_command.py
+
+
+https://github.com/user-attachments/assets/48487957-8112-4d0e-bfac-8faf7c06122f
+
