@@ -30,7 +30,7 @@ Autonomous Vacuum-bot with voice command recognition for path planning
 
     ```bash
     cd ~/catkin_ws/src
-    git clone https://github.com/Rohithramkrish11/Vacuum-bot.git
+    git clone https://github.com/Yadhukrishnank/vaccumbot.git
     git clone https://gitlab.com/Humpelstilzchen/path_coverage_ros.git
     cd ~/catkin_ws
     catkin_make
